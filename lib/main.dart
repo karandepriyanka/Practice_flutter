@@ -30,7 +30,7 @@ class _HomeAppState extends State<HomeApp> {
           decoration: InputDecoration(
             border: OutlineInputBorder(),
             hintText: "Enter Full Name",
-            labelText: "Name"
+            labelText: "Names"
           ),
         ),
       ),
